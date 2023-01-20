@@ -1,29 +1,38 @@
+@media only screen and (min-width: 480px) {
+  body {background: pink;}
+}
+
 .29_230 { 
 	overflow:hidden;
-}.e29_230 { 
+}
+.e29_230 { 
 	width:390px;
 	height:844px;
 	position:absolute;
-}.e29_231 { 
+}
+.e29_231 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:390px;
 	height:844px;
 	position:absolute;
 	left:0px;
 	top:0px;
-}.e29_232 { 
+}
+.e29_232 { 
 	width:320px;
 	height:466px;
 	position:absolute;
 	left:35px;
 	top:415px;
-}.e29_233 { 
+}
+.e29_233 { 
 	width:320px;
 	height:325px;
 	position:absolute;
 	left:35px;
 	top:24px;
-}.ei29_233_14_84 { 
+}
+.ei29_233_14_84 { 
 	width:320px;
 	height:325px;
 	position:absolute;
@@ -32,7 +41,8 @@
 	background-image:url(images/kuva_iphone.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e22_169 { 
+}
+.e22_169 { 
 	color:rgba(0, 0, 0, 1);
 	width:318px;
 	height:72px;
@@ -44,13 +54,15 @@
 	font-size:40px;
 	letter-spacing:0;
 	line-height:px;
-}.e23_328 { 
+}
+.e23_328 { 
 	width:295px;
 	height:466px;
 	position:absolute;
 	left:50px;
 	top:456px;
-}.ei23_328_13_487 { 
+}
+.ei23_328_13_487 { 
 	color:rgba(0, 0, 0, 1);
 	width:242px;
 	height:664px;
@@ -62,4 +74,4 @@
 	font-size:16px;
 	letter-spacing:0;
 	line-height:px;
-}
+}
